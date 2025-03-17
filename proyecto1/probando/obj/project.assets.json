@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/miPrimerRepo/proyecto1/probando/probando.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\GUSTAVO\\Cursos Platzi\\Curso de Git\\miPrimerRepo\\probando\\probando.csproj",
       "projectName": "probando",
-      "projectPath": "/workspaces/miPrimerRepo/proyecto1/probando/probando.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/miPrimerRepo/proyecto1/probando/obj/",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\GUSTAVO\\Cursos Platzi\\Curso de Git\\miPrimerRepo\\probando\\probando.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\GUSTAVO\\Cursos Platzi\\Curso de Git\\miPrimerRepo\\probando\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
